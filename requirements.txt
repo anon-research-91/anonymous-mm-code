@@ -1,0 +1,16 @@
+torch>=2.0.0
+torchvision>=0.15.0
+numpy
+Pillow
+opencv-python
+tqdm
+
+diffusers>=0.24.0
+transformers>=4.30.0
+accelerate
+
+scipy
+matplotlib
+
+# optional (depending on your usage)
+segment-anything
