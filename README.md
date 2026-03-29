@@ -1,19 +1,23 @@
-Anonymous Graph-Driven Image Editing (ACM MM Submission)
+# Anonymous Graph-Driven Image Editing (ACM MM Submission)
 
-🔥 Highlights
+## 🔥 Highlights
 
-·🧠 **Graph-driven editing**: Perform image editing via structured scene graph modifications
-·🎯 **Precise region control**: Mask-guided editing enables localized and controllable modifications
-·🧩 **Multi-task support**: Unified framework for addition, removal, replacement, attribute, and relation editing
-·⚡ **Diffusion-based synthesis**: High-quality edits using modern diffusion models
+* 🧠 **Graph-driven editing**: Perform image editing via structured scene graph modifications
+* 🎯 **Precise region control**: Mask-guided editing enables localized and controllable modifications
+* 🧩 **Multi-task support**: Unified framework for addition, removal, replacement, attribute, and relation editing
+* ⚡ **Diffusion-based synthesis**: High-quality edits using modern diffusion models
 
-🖼️ Overview
+---
+
+## 🖼️ Overview
 
 This repository provides the core implementation of a **graph-driven image editing pipeline**.
 
 Given structured inputs such as graph deltas or editing instructions, our method performs **mask-aware, diffusion-based image editing** to produce semantically consistent results.
 
-⚙️ Method Pipeline
+---
+
+## ⚙️ Method Pipeline
 
 Our pipeline consists of four key stages:
 
@@ -33,7 +37,9 @@ Our pipeline consists of four key stages:
 4. **Diffusion-based Editing**
    Perform localized image synthesis with mask guidance
 
-🚀 Installation
+---
+
+## 🚀 Installation
 
 ```bash
 git clone https://github.com/anonymous/anonymous-mm-code.git
