@@ -1,0 +1,792 @@
+{
+  "image_id": 63,
+  "image_path": "/root/SGGE_DM/data/visual_genome/VG_100K/VG_100K_2/63.jpg",
+  "image_size": [
+    800,
+    600
+  ],
+  "nodes": [
+    {
+      "id": 1533887,
+      "class": "table",
+      "attrs": [],
+      "bbox": [
+        3,
+        142,
+        796,
+        594
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533887_mask.npy",
+      "mask_area": 228315
+    },
+    {
+      "id": 1533856,
+      "class": "fork",
+      "attrs": [],
+      "bbox": [
+        299,
+        305,
+        334,
+        478
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533856_mask.npy",
+      "mask_area": 3197
+    },
+    {
+      "id": 3786827,
+      "class": "fork",
+      "attrs": [],
+      "bbox": [
+        275,
+        173,
+        307,
+        292
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj3786827_mask.npy",
+      "mask_area": 1787
+    },
+    {
+      "id": 3786826,
+      "class": "fork",
+      "attrs": [],
+      "bbox": [
+        301,
+        301,
+        341,
+        498
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj3786826_mask.npy",
+      "mask_area": 3225
+    },
+    {
+      "id": 3786825,
+      "class": "knife",
+      "attrs": [],
+      "bbox": [
+        51,
+        354,
+        117,
+        548
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj3786825_mask.npy",
+      "mask_area": 3347
+    },
+    {
+      "id": 3786824,
+      "class": "knife",
+      "attrs": [],
+      "bbox": [
+        409,
+        287,
+        467,
+        499
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj3786824_mask.npy",
+      "mask_area": 2989
+    },
+    {
+      "id": 1533910,
+      "class": "plate",
+      "attrs": [],
+      "bbox": [
+        26,
+        173,
+        263,
+        341
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533910_mask.npy",
+      "mask_area": 27579
+    },
+    {
+      "id": 1533889,
+      "class": "plate",
+      "attrs": [],
+      "bbox": [
+        314,
+        133,
+        534,
+        277
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533889_mask.npy",
+      "mask_area": 23824
+    },
+    {
+      "id": 1533908,
+      "class": "plate",
+      "attrs": [],
+      "bbox": [
+        482,
+        277,
+        758,
+        504
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533908_mask.npy",
+      "mask_area": 44337
+    },
+    {
+      "id": 1533897,
+      "class": "knife",
+      "attrs": [],
+      "bbox": [
+        416,
+        309,
+        460,
+        493
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533897_mask.npy",
+      "mask_area": 2932
+    },
+    {
+      "id": 3786829,
+      "class": "knife",
+      "attrs": [],
+      "bbox": [
+        60,
+        362,
+        112,
+        551
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj3786829_mask.npy",
+      "mask_area": 3318
+    },
+    {
+      "id": 3786828,
+      "class": "handle grip",
+      "attrs": [],
+      "bbox": [
+        71,
+        458,
+        103,
+        545
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj3786828_mask.npy",
+      "mask_area": 1588
+    },
+    {
+      "id": 1533868,
+      "class": "knife",
+      "attrs": [],
+      "bbox": [
+        413,
+        302,
+        457,
+        481
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533868_mask.npy",
+      "mask_area": 2920
+    },
+    {
+      "id": 1533867,
+      "class": "handle",
+      "attrs": [],
+      "bbox": [
+        429,
+        394,
+        463,
+        484
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533867_mask.npy",
+      "mask_area": 1483
+    },
+    {
+      "id": 1533869,
+      "class": "knife",
+      "attrs": [],
+      "bbox": [
+        414,
+        314,
+        463,
+        492
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533869_mask.npy",
+      "mask_area": 2937
+    },
+    {
+      "id": 3786830,
+      "class": "handle",
+      "attrs": [],
+      "bbox": [
+        298,
+        394,
+        338,
+        478
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj3786830_mask.npy",
+      "mask_area": 1673
+    },
+    {
+      "id": 1533871,
+      "class": "fork",
+      "attrs": [],
+      "bbox": [
+        303,
+        305,
+        332,
+        490
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533871_mask.npy",
+      "mask_area": 3186
+    },
+    {
+      "id": 1533877,
+      "class": "top",
+      "attrs": [],
+      "bbox": [
+        1,
+        0,
+        797,
+        113
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533877_mask.npy",
+      "mask_area": 53831
+    },
+    {
+      "id": 1533876,
+      "class": "counter",
+      "attrs": [],
+      "bbox": [
+        9,
+        3,
+        795,
+        223
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533876_mask.npy",
+      "mask_area": 105222
+    },
+    {
+      "id": 3786831,
+      "class": "handle",
+      "attrs": [],
+      "bbox": [
+        400,
+        374,
+        496,
+        528
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj3786831_mask.npy",
+      "mask_area": 10650
+    },
+    {
+      "id": 1533886,
+      "class": "knife",
+      "attrs": [],
+      "bbox": [
+        64,
+        360,
+        115,
+        560
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533886_mask.npy",
+      "mask_area": 3330
+    },
+    {
+      "id": 3786832,
+      "class": "table",
+      "attrs": [],
+      "bbox": [
+        23,
+        127,
+        587,
+        591
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj3786832_mask.npy",
+      "mask_area": 121197
+    },
+    {
+      "id": 1533880,
+      "class": "forks",
+      "attrs": [],
+      "bbox": [
+        269,
+        166,
+        304,
+        286
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533880_mask.npy",
+      "mask_area": 1820
+    },
+    {
+      "id": 1533879,
+      "class": "forks",
+      "attrs": [],
+      "bbox": [
+        297,
+        306,
+        332,
+        482
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533879_mask.npy",
+      "mask_area": 3203
+    },
+    {
+      "id": 3786833,
+      "class": "handle",
+      "attrs": [],
+      "bbox": [
+        289,
+        377,
+        360,
+        509
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj3786833_mask.npy",
+      "mask_area": 856
+    },
+    {
+      "id": 1533884,
+      "class": "fork",
+      "attrs": [],
+      "bbox": [
+        303,
+        308,
+        338,
+        481
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533884_mask.npy",
+      "mask_area": 3195
+    },
+    {
+      "id": 1533885,
+      "class": "fork",
+      "attrs": [],
+      "bbox": [
+        306,
+        305,
+        332,
+        483
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533885_mask.npy",
+      "mask_area": 3176
+    },
+    {
+      "id": 3786834,
+      "class": "handle",
+      "attrs": [],
+      "bbox": [
+        48,
+        435,
+        221,
+        595
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj3786834_mask.npy",
+      "mask_area": 1908
+    },
+    {
+      "id": 3786835,
+      "class": "handle",
+      "attrs": [],
+      "bbox": [
+        302,
+        384,
+        354,
+        496
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj3786835_mask.npy",
+      "mask_area": 1901
+    },
+    {
+      "id": 1533891,
+      "class": "fork",
+      "attrs": [],
+      "bbox": [
+        265,
+        173,
+        305,
+        285
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533891_mask.npy",
+      "mask_area": 1827
+    },
+    {
+      "id": 3786836,
+      "class": "border",
+      "attrs": [],
+      "bbox": [
+        461,
+        258,
+        776,
+        562
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj3786836_mask.npy",
+      "mask_area": 44905
+    },
+    {
+      "id": 1533894,
+      "class": "plate",
+      "attrs": [],
+      "bbox": [
+        318,
+        126,
+        531,
+        273
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533894_mask.npy",
+      "mask_area": 23819
+    },
+    {
+      "id": 3786837,
+      "class": "handle",
+      "attrs": [],
+      "bbox": [
+        276,
+        208,
+        324,
+        302
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj3786837_mask.npy",
+      "mask_area": 1356
+    },
+    {
+      "id": 1533896,
+      "class": "knife",
+      "attrs": [],
+      "bbox": [
+        267,
+        166,
+        307,
+        284
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533896_mask.npy",
+      "mask_area": 1858
+    },
+    {
+      "id": 3786838,
+      "class": "handle",
+      "attrs": [],
+      "bbox": [
+        421,
+        383,
+        487,
+        554
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj3786838_mask.npy",
+      "mask_area": 1983
+    },
+    {
+      "id": 1533899,
+      "class": "handle",
+      "attrs": [],
+      "bbox": [
+        58,
+        456,
+        96,
+        554
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533899_mask.npy",
+      "mask_area": 1713
+    },
+    {
+      "id": 1533898,
+      "class": "knife",
+      "attrs": [],
+      "bbox": [
+        58,
+        356,
+        116,
+        559
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533898_mask.npy",
+      "mask_area": 3345
+    },
+    {
+      "id": 3786839,
+      "class": "border",
+      "attrs": [],
+      "bbox": [
+        469,
+        288,
+        774,
+        541
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj3786839_mask.npy",
+      "mask_area": 44774
+    },
+    {
+      "id": 3786840,
+      "class": "handle",
+      "attrs": [],
+      "bbox": [
+        298,
+        365,
+        366,
+        517
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj3786840_mask.npy",
+      "mask_area": 2141
+    },
+    {
+      "id": 1533901,
+      "class": "fork",
+      "attrs": [],
+      "bbox": [
+        295,
+        309,
+        340,
+        485
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533901_mask.npy",
+      "mask_area": 3216
+    },
+    {
+      "id": 3786841,
+      "class": "border",
+      "attrs": [],
+      "bbox": [
+        493,
+        262,
+        747,
+        542
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj3786841_mask.npy",
+      "mask_area": 44718
+    },
+    {
+      "id": 1533909,
+      "class": "plate",
+      "attrs": [],
+      "bbox": [
+        310,
+        129,
+        530,
+        285
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533909_mask.npy",
+      "mask_area": 23831
+    },
+    {
+      "id": 1533907,
+      "class": "cutlery",
+      "attrs": [],
+      "bbox": [
+        58,
+        360,
+        110,
+        550
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533907_mask.npy",
+      "mask_area": 3320
+    },
+    {
+      "id": 1533906,
+      "class": "cutlery",
+      "attrs": [],
+      "bbox": [
+        269,
+        173,
+        301,
+        283
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533906_mask.npy",
+      "mask_area": 1773
+    },
+    {
+      "id": 1533905,
+      "class": "cutlery",
+      "attrs": [],
+      "bbox": [
+        407,
+        307,
+        458,
+        483
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533905_mask.npy",
+      "mask_area": 2929
+    },
+    {
+      "id": 1533904,
+      "class": "cutlery",
+      "attrs": [],
+      "bbox": [
+        296,
+        305,
+        330,
+        484
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533904_mask.npy",
+      "mask_area": 3205
+    },
+    {
+      "id": 1533913,
+      "class": "top",
+      "attrs": [],
+      "bbox": [
+        0,
+        6,
+        781,
+        123
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533913_mask.npy",
+      "mask_area": 51407
+    },
+    {
+      "id": 1533912,
+      "class": "counter",
+      "attrs": [],
+      "bbox": [
+        0,
+        6,
+        771,
+        271
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/63/63_obj1533912_mask.npy",
+      "mask_area": 100112
+    }
+  ],
+  "edges": [
+    {
+      "subject_id": 1533856,
+      "object_id": 1533887,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 3786827,
+      "object_id": 1533887,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 3786826,
+      "object_id": 1533887,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 3786825,
+      "object_id": 1533887,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 3786824,
+      "object_id": 1533887,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 1533910,
+      "object_id": 1533887,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 1533889,
+      "object_id": 1533887,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 1533908,
+      "object_id": 1533887,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 1533908,
+      "object_id": 1533887,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 1533897,
+      "object_id": 1533887,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 3786828,
+      "object_id": 3786829,
+      "predicate": "of"
+    },
+    {
+      "subject_id": 1533869,
+      "object_id": 1533887,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 1533871,
+      "object_id": 3786830,
+      "predicate": "has a"
+    },
+    {
+      "subject_id": 1533876,
+      "object_id": 1533877,
+      "predicate": "has a"
+    },
+    {
+      "subject_id": 1533886,
+      "object_id": 3786831,
+      "predicate": "has"
+    },
+    {
+      "subject_id": 1533880,
+      "object_id": 3786832,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 1533910,
+      "object_id": 1533887,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 3786833,
+      "object_id": 1533884,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 1533886,
+      "object_id": 3786834,
+      "predicate": "with"
+    },
+    {
+      "subject_id": 1533910,
+      "object_id": 1533887,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 1533891,
+      "object_id": 3786835,
+      "predicate": "with"
+    },
+    {
+      "subject_id": 1533910,
+      "object_id": 3786836,
+      "predicate": "with"
+    },
+    {
+      "subject_id": 1533896,
+      "object_id": 3786837,
+      "predicate": "with"
+    },
+    {
+      "subject_id": 1533897,
+      "object_id": 3786838,
+      "predicate": "with"
+    },
+    {
+      "subject_id": 1533898,
+      "object_id": 1533899,
+      "predicate": "with"
+    },
+    {
+      "subject_id": 1533889,
+      "object_id": 3786839,
+      "predicate": "with"
+    },
+    {
+      "subject_id": 1533901,
+      "object_id": 3786840,
+      "predicate": "with"
+    },
+    {
+      "subject_id": 1533908,
+      "object_id": 3786841,
+      "predicate": "with"
+    },
+    {
+      "subject_id": 1533887,
+      "object_id": 1533909,
+      "predicate": "with"
+    },
+    {
+      "subject_id": 1533887,
+      "object_id": 1533905,
+      "predicate": "with"
+    },
+    {
+      "subject_id": 1533913,
+      "object_id": 1533912,
+      "predicate": "of"
+    }
+  ],
+  "source": "vg"
+}

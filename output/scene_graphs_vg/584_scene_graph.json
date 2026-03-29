@@ -1,0 +1,678 @@
+{
+  "image_id": 584,
+  "image_path": "/root/SGGE_DM/data/visual_genome/VG_100K/VG_100K_2/584.jpg",
+  "image_size": [
+    384,
+    256
+  ],
+  "nodes": [
+    {
+      "id": 2388024,
+      "class": "leg",
+      "attrs": [],
+      "bbox": [
+        289,
+        140,
+        323,
+        175
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj2388024_mask.npy",
+      "mask_area": 352
+    },
+    {
+      "id": 2388025,
+      "class": "leg",
+      "attrs": [],
+      "bbox": [
+        271,
+        149,
+        288,
+        168
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj2388025_mask.npy",
+      "mask_area": 161
+    },
+    {
+      "id": 2388026,
+      "class": "leg",
+      "attrs": [],
+      "bbox": [
+        257,
+        145,
+        278,
+        174
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj2388026_mask.npy",
+      "mask_area": 276
+    },
+    {
+      "id": 2388027,
+      "class": "elephant",
+      "attrs": [],
+      "bbox": [
+        236,
+        91,
+        350,
+        174
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj2388027_mask.npy",
+      "mask_area": 3986
+    },
+    {
+      "id": 3788065,
+      "class": "elephant",
+      "attrs": [],
+      "bbox": [
+        253,
+        111,
+        341,
+        171
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj3788065_mask.npy",
+      "mask_area": 3526
+    },
+    {
+      "id": 2669048,
+      "class": "leg",
+      "attrs": [],
+      "bbox": [
+        297,
+        150,
+        317,
+        169
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj2669048_mask.npy",
+      "mask_area": 160
+    },
+    {
+      "id": 2521802,
+      "class": "leg",
+      "attrs": [],
+      "bbox": [
+        9,
+        144,
+        23,
+        174
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj2521802_mask.npy",
+      "mask_area": 292
+    },
+    {
+      "id": 2657219,
+      "class": "elephant",
+      "attrs": [],
+      "bbox": [
+        0,
+        115,
+        58,
+        175
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj2657219_mask.npy",
+      "mask_area": 2551
+    },
+    {
+      "id": 2416301,
+      "class": "elephant",
+      "attrs": [],
+      "bbox": [
+        249,
+        106,
+        346,
+        180
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj2416301_mask.npy",
+      "mask_area": 3622
+    },
+    {
+      "id": 3565077,
+      "class": "elephant",
+      "attrs": [],
+      "bbox": [
+        78,
+        87,
+        230,
+        192
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj3565077_mask.npy",
+      "mask_area": 9210
+    },
+    {
+      "id": 2416303,
+      "class": "elephant",
+      "attrs": [],
+      "bbox": [
+        1,
+        109,
+        64,
+        176
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj2416303_mask.npy",
+      "mask_area": 2571
+    },
+    {
+      "id": 2416304,
+      "class": "water",
+      "attrs": [],
+      "bbox": [
+        1,
+        135,
+        377,
+        254
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj2416304_mask.npy",
+      "mask_area": 33727
+    },
+    {
+      "id": 1636205,
+      "class": "water",
+      "attrs": [],
+      "bbox": [
+        4,
+        149,
+        382,
+        250
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636205_mask.npy",
+      "mask_area": 33293
+    },
+    {
+      "id": 1636204,
+      "class": "trees",
+      "attrs": [],
+      "bbox": [
+        2,
+        0,
+        381,
+        105
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636204_mask.npy",
+      "mask_area": 17658
+    },
+    {
+      "id": 1636206,
+      "class": "ear",
+      "attrs": [],
+      "bbox": [
+        136,
+        98,
+        164,
+        132
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636206_mask.npy",
+      "mask_area": 504
+    },
+    {
+      "id": 1636208,
+      "class": "trunk",
+      "attrs": [],
+      "bbox": [
+        78,
+        96,
+        118,
+        140
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636208_mask.npy",
+      "mask_area": 656
+    },
+    {
+      "id": 1636211,
+      "class": "tree",
+      "attrs": [],
+      "bbox": [
+        48,
+        0,
+        149,
+        96
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636211_mask.npy",
+      "mask_area": 3322
+    },
+    {
+      "id": 1636212,
+      "class": "tree",
+      "attrs": [],
+      "bbox": [
+        349,
+        0,
+        379,
+        99
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636212_mask.npy",
+      "mask_area": 1216
+    },
+    {
+      "id": 1636213,
+      "class": "leg",
+      "attrs": [],
+      "bbox": [
+        146,
+        137,
+        171,
+        190
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636213_mask.npy",
+      "mask_area": 1026
+    },
+    {
+      "id": 1636214,
+      "class": "leg",
+      "attrs": [],
+      "bbox": [
+        208,
+        156,
+        234,
+        187
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636214_mask.npy",
+      "mask_area": 403
+    },
+    {
+      "id": 1636215,
+      "class": "leg",
+      "attrs": [],
+      "bbox": [
+        128,
+        145,
+        146,
+        191
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636215_mask.npy",
+      "mask_area": 626
+    },
+    {
+      "id": 1636216,
+      "class": "leg",
+      "attrs": [],
+      "bbox": [
+        273,
+        154,
+        283,
+        170
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636216_mask.npy",
+      "mask_area": 123
+    },
+    {
+      "id": 1636217,
+      "class": "leg",
+      "attrs": [],
+      "bbox": [
+        25,
+        150,
+        50,
+        174
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636217_mask.npy",
+      "mask_area": 235
+    },
+    {
+      "id": 1636218,
+      "class": "leg",
+      "attrs": [],
+      "bbox": [
+        77,
+        92,
+        230,
+        194
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636218_mask.npy",
+      "mask_area": 9200
+    },
+    {
+      "id": 1636219,
+      "class": "trunk",
+      "attrs": [],
+      "bbox": [
+        79,
+        96,
+        115,
+        140
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636219_mask.npy",
+      "mask_area": 615
+    },
+    {
+      "id": 3565091,
+      "class": "elephant",
+      "attrs": [],
+      "bbox": [
+        82,
+        90,
+        234,
+        186
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj3565091_mask.npy",
+      "mask_area": 9214
+    },
+    {
+      "id": 3788066,
+      "class": "elephant",
+      "attrs": [],
+      "bbox": [
+        3,
+        115,
+        58,
+        179
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj3788066_mask.npy",
+      "mask_area": 2579
+    },
+    {
+      "id": 1636221,
+      "class": "tail",
+      "attrs": [],
+      "bbox": [
+        35,
+        122,
+        56,
+        142
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636221_mask.npy",
+      "mask_area": 261
+    },
+    {
+      "id": 1636223,
+      "class": "tree",
+      "attrs": [],
+      "bbox": [
+        38,
+        0,
+        149,
+        94
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636223_mask.npy",
+      "mask_area": 3399
+    },
+    {
+      "id": 3788067,
+      "class": "shore",
+      "attrs": [],
+      "bbox": [
+        1,
+        91,
+        383,
+        171
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj3788067_mask.npy",
+      "mask_area": 12698
+    },
+    {
+      "id": 1636225,
+      "class": "ear",
+      "attrs": [],
+      "bbox": [
+        137,
+        97,
+        162,
+        128
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636225_mask.npy",
+      "mask_area": 501
+    },
+    {
+      "id": 1636227,
+      "class": "leaves",
+      "attrs": [],
+      "bbox": [
+        313,
+        11,
+        357,
+        93
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636227_mask.npy",
+      "mask_area": 2362
+    },
+    {
+      "id": 3633776,
+      "class": "tree",
+      "attrs": [],
+      "bbox": [
+        302,
+        0,
+        361,
+        109
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj3633776_mask.npy",
+      "mask_area": 3436
+    },
+    {
+      "id": 1636228,
+      "class": "leaves",
+      "attrs": [],
+      "bbox": [
+        231,
+        58,
+        298,
+        103
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636228_mask.npy",
+      "mask_area": 2254
+    },
+    {
+      "id": 3633777,
+      "class": "tree",
+      "attrs": [],
+      "bbox": [
+        224,
+        54,
+        297,
+        102
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj3633777_mask.npy",
+      "mask_area": 2261
+    },
+    {
+      "id": 1636229,
+      "class": "leaves",
+      "attrs": [],
+      "bbox": [
+        162,
+        62,
+        213,
+        96
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636229_mask.npy",
+      "mask_area": 1163
+    },
+    {
+      "id": 3633778,
+      "class": "tree",
+      "attrs": [],
+      "bbox": [
+        165,
+        63,
+        213,
+        104
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj3633778_mask.npy",
+      "mask_area": 1160
+    },
+    {
+      "id": 1636230,
+      "class": "leaves",
+      "attrs": [],
+      "bbox": [
+        165,
+        60,
+        214,
+        100
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636230_mask.npy",
+      "mask_area": 1151
+    },
+    {
+      "id": 3633779,
+      "class": "tree",
+      "attrs": [],
+      "bbox": [
+        164,
+        55,
+        302,
+        105
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj3633779_mask.npy",
+      "mask_area": 3715
+    },
+    {
+      "id": 1636231,
+      "class": "leaves",
+      "attrs": [],
+      "bbox": [
+        28,
+        65,
+        48,
+        91
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/584/584_obj1636231_mask.npy",
+      "mask_area": 331
+    }
+  ],
+  "edges": [
+    {
+      "subject_id": 3788065,
+      "object_id": 2669048,
+      "predicate": "ON"
+    },
+    {
+      "subject_id": 2521802,
+      "object_id": 2657219,
+      "predicate": "ON"
+    },
+    {
+      "subject_id": 2416301,
+      "object_id": 2416304,
+      "predicate": "IN"
+    },
+    {
+      "subject_id": 3565077,
+      "object_id": 2416304,
+      "predicate": "IN"
+    },
+    {
+      "subject_id": 2416303,
+      "object_id": 2416301,
+      "predicate": "IN"
+    },
+    {
+      "subject_id": 2657219,
+      "object_id": 1636205,
+      "predicate": "IN"
+    },
+    {
+      "subject_id": 3565077,
+      "object_id": 1636205,
+      "predicate": "IN"
+    },
+    {
+      "subject_id": 3788065,
+      "object_id": 1636205,
+      "predicate": "IN"
+    },
+    {
+      "subject_id": 1636204,
+      "object_id": 1636205,
+      "predicate": "near"
+    },
+    {
+      "subject_id": 1636206,
+      "object_id": 3565077,
+      "predicate": "OF"
+    },
+    {
+      "subject_id": 1636208,
+      "object_id": 3788065,
+      "predicate": "OF"
+    },
+    {
+      "subject_id": 3565077,
+      "object_id": 1636205,
+      "predicate": "wading IN"
+    },
+    {
+      "subject_id": 3788065,
+      "object_id": 1636205,
+      "predicate": "wading IN"
+    },
+    {
+      "subject_id": 1636213,
+      "object_id": 3565077,
+      "predicate": "OF"
+    },
+    {
+      "subject_id": 1636214,
+      "object_id": 3565077,
+      "predicate": "OF"
+    },
+    {
+      "subject_id": 1636215,
+      "object_id": 3565077,
+      "predicate": "OF"
+    },
+    {
+      "subject_id": 1636216,
+      "object_id": 3788065,
+      "predicate": "ON"
+    },
+    {
+      "subject_id": 1636217,
+      "object_id": 2657219,
+      "predicate": "OF"
+    },
+    {
+      "subject_id": 3565077,
+      "object_id": 1636205,
+      "predicate": "standing in"
+    },
+    {
+      "subject_id": 3565077,
+      "object_id": 1636219,
+      "predicate": "holding"
+    },
+    {
+      "subject_id": 2657219,
+      "object_id": 3565091,
+      "predicate": "left of"
+    },
+    {
+      "subject_id": 3788066,
+      "object_id": 1636221,
+      "predicate": "has"
+    },
+    {
+      "subject_id": 3788065,
+      "object_id": 3565077,
+      "predicate": "standing behind"
+    },
+    {
+      "subject_id": 2657219,
+      "object_id": 3788067,
+      "predicate": "walking towards"
+    },
+    {
+      "subject_id": 3565077,
+      "object_id": 1636225,
+      "predicate": "has"
+    },
+    {
+      "subject_id": 1636227,
+      "object_id": 3633776,
+      "predicate": "on a"
+    },
+    {
+      "subject_id": 1636228,
+      "object_id": 3633777,
+      "predicate": "on a"
+    },
+    {
+      "subject_id": 1636229,
+      "object_id": 3633778,
+      "predicate": "on a"
+    },
+    {
+      "subject_id": 1636230,
+      "object_id": 3633779,
+      "predicate": "ON"
+    }
+  ],
+  "source": "vg"
+}

@@ -1,0 +1,207 @@
+{
+  "image_id": 189,
+  "image_path": "/root/SGGE_DM/data/visual_genome/VG_100K/VG_100K_2/189.jpg",
+  "image_size": [
+    800,
+    415
+  ],
+  "nodes": [
+    {
+      "id": 3787376,
+      "class": "horizon",
+      "attrs": [],
+      "bbox": [
+        1,
+        56,
+        774,
+        101
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/189/189_obj3787376_mask.npy",
+      "mask_area": 29576
+    },
+    {
+      "id": 1621440,
+      "class": "clouds",
+      "attrs": [],
+      "bbox": [
+        3,
+        0,
+        798,
+        57
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/189/189_obj1621440_mask.npy",
+      "mask_area": 45230
+    },
+    {
+      "id": 1621442,
+      "class": "grass",
+      "attrs": [],
+      "bbox": [
+        4,
+        166,
+        796,
+        412
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/189/189_obj1621442_mask.npy",
+      "mask_area": 171284
+    },
+    {
+      "id": 1621454,
+      "class": "field",
+      "attrs": [],
+      "bbox": [
+        0,
+        60,
+        793,
+        406
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/189/189_obj1621454_mask.npy",
+      "mask_area": 250367
+    },
+    {
+      "id": 1621443,
+      "class": "sky",
+      "attrs": [],
+      "bbox": [
+        5,
+        0,
+        795,
+        69
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/189/189_obj1621443_mask.npy",
+      "mask_area": 48492
+    },
+    {
+      "id": 1621446,
+      "class": "lion",
+      "attrs": [],
+      "bbox": [
+        582,
+        247,
+        792,
+        332
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/189/189_obj1621446_mask.npy",
+      "mask_area": 9909
+    },
+    {
+      "id": 1621445,
+      "class": "fur",
+      "attrs": [],
+      "bbox": [
+        593,
+        248,
+        651,
+        314
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/189/189_obj1621445_mask.npy",
+      "mask_area": 3222
+    },
+    {
+      "id": 1621447,
+      "class": "tail",
+      "attrs": [],
+      "bbox": [
+        774,
+        274,
+        796,
+        334
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/189/189_obj1621447_mask.npy",
+      "mask_area": 496
+    },
+    {
+      "id": 1621448,
+      "class": "tree",
+      "attrs": [],
+      "bbox": [
+        31,
+        88,
+        191,
+        173
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/189/189_obj1621448_mask.npy",
+      "mask_area": 7518
+    },
+    {
+      "id": 1621449,
+      "class": "bush",
+      "attrs": [],
+      "bbox": [
+        524,
+        93,
+        641,
+        166
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/189/189_obj1621449_mask.npy",
+      "mask_area": 5495
+    },
+    {
+      "id": 1621450,
+      "class": "grass",
+      "attrs": [],
+      "bbox": [
+        4,
+        68,
+        793,
+        174
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/189/189_obj1621450_mask.npy",
+      "mask_area": 62664
+    },
+    {
+      "id": 1621451,
+      "class": "ground",
+      "attrs": [],
+      "bbox": [
+        9,
+        66,
+        798,
+        179
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/189/189_obj1621451_mask.npy",
+      "mask_area": 63756
+    },
+    {
+      "id": 1621452,
+      "class": "horizon",
+      "attrs": [],
+      "bbox": [
+        4,
+        6,
+        797,
+        73
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/189/189_obj1621452_mask.npy",
+      "mask_area": 49760
+    }
+  ],
+  "edges": [
+    {
+      "subject_id": 1621440,
+      "object_id": 3787376,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 1621454,
+      "object_id": 1621442,
+      "predicate": "covered with"
+    },
+    {
+      "subject_id": 1621446,
+      "object_id": 1621447,
+      "predicate": "has"
+    },
+    {
+      "subject_id": 1621451,
+      "object_id": 1621452,
+      "predicate": "has"
+    },
+    {
+      "subject_id": 1621446,
+      "object_id": 1621454,
+      "predicate": "in"
+    }
+  ],
+  "source": "vg"
+}

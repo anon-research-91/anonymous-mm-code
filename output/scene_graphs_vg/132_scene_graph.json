@@ -1,0 +1,510 @@
+{
+  "image_id": 132,
+  "image_path": "/root/SGGE_DM/data/visual_genome/VG_100K/VG_100K_2/132.jpg",
+  "image_size": [
+    800,
+    600
+  ],
+  "nodes": [
+    {
+      "id": 1634700,
+      "class": "street light",
+      "attrs": [],
+      "bbox": [
+        110,
+        53,
+        204,
+        360
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj1634700_mask.npy",
+      "mask_area": 5206
+    },
+    {
+      "id": 1634703,
+      "class": "grass",
+      "attrs": [],
+      "bbox": [
+        686,
+        311,
+        798,
+        357
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj1634703_mask.npy",
+      "mask_area": 1778
+    },
+    {
+      "id": 1634702,
+      "class": "grass",
+      "attrs": [],
+      "bbox": [
+        741,
+        341,
+        798,
+        384
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj1634702_mask.npy",
+      "mask_area": 1361
+    },
+    {
+      "id": 1634701,
+      "class": "grass",
+      "attrs": [],
+      "bbox": [
+        652,
+        350,
+        744,
+        377
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj1634701_mask.npy",
+      "mask_area": 979
+    },
+    {
+      "id": 3786997,
+      "class": "car",
+      "attrs": [],
+      "bbox": [
+        352,
+        311,
+        485,
+        407
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3786997_mask.npy",
+      "mask_area": 8292
+    },
+    {
+      "id": 3786996,
+      "class": "lights",
+      "attrs": [],
+      "bbox": [
+        369,
+        336,
+        472,
+        386
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3786996_mask.npy",
+      "mask_area": 4330
+    },
+    {
+      "id": 1535357,
+      "class": "building",
+      "attrs": [],
+      "bbox": [
+        492,
+        139,
+        567,
+        219
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj1535357_mask.npy",
+      "mask_area": 4791
+    },
+    {
+      "id": 3786998,
+      "class": "beach hut",
+      "attrs": [],
+      "bbox": [
+        183,
+        285,
+        734,
+        340
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3786998_mask.npy",
+      "mask_area": 15108
+    },
+    {
+      "id": 3787000,
+      "class": "road",
+      "attrs": [],
+      "bbox": [
+        477,
+        401,
+        695,
+        571
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3787000_mask.npy",
+      "mask_area": 51253
+    },
+    {
+      "id": 3786999,
+      "class": "line",
+      "attrs": [],
+      "bbox": [
+        678,
+        424,
+        755,
+        536
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3786999_mask.npy",
+      "mask_area": 4405
+    },
+    {
+      "id": 3787001,
+      "class": "trash can",
+      "attrs": [],
+      "bbox": [
+        96,
+        306,
+        154,
+        361
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3787001_mask.npy",
+      "mask_area": 1309
+    },
+    {
+      "id": 3787003,
+      "class": "road",
+      "attrs": [],
+      "bbox": [
+        7,
+        359,
+        770,
+        594
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3787003_mask.npy",
+      "mask_area": 151084
+    },
+    {
+      "id": 3787002,
+      "class": "car",
+      "attrs": [],
+      "bbox": [
+        352,
+        301,
+        500,
+        414
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3787002_mask.npy",
+      "mask_area": 8460
+    },
+    {
+      "id": 3787005,
+      "class": "car",
+      "attrs": [],
+      "bbox": [
+        358,
+        317,
+        488,
+        404
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3787005_mask.npy",
+      "mask_area": 8281
+    },
+    {
+      "id": 3787004,
+      "class": "license plate",
+      "attrs": [],
+      "bbox": [
+        390,
+        353,
+        440,
+        371
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3787004_mask.npy",
+      "mask_area": 550
+    },
+    {
+      "id": 3787007,
+      "class": "sidewalk",
+      "attrs": [],
+      "bbox": [
+        5,
+        331,
+        794,
+        596
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3787007_mask.npy",
+      "mask_area": 180108
+    },
+    {
+      "id": 3787006,
+      "class": "trash can",
+      "attrs": [],
+      "bbox": [
+        96,
+        302,
+        139,
+        352
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3787006_mask.npy",
+      "mask_area": 1204
+    },
+    {
+      "id": 3787009,
+      "class": "street light",
+      "attrs": [],
+      "bbox": [
+        114,
+        51,
+        201,
+        352
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3787009_mask.npy",
+      "mask_area": 5211
+    },
+    {
+      "id": 3787008,
+      "class": "curb",
+      "attrs": [],
+      "bbox": [
+        1,
+        335,
+        793,
+        596
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3787008_mask.npy",
+      "mask_area": 176707
+    },
+    {
+      "id": 3787010,
+      "class": "ocean",
+      "attrs": [],
+      "bbox": [
+        1,
+        299,
+        735,
+        339
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3787010_mask.npy",
+      "mask_area": 15033
+    },
+    {
+      "id": 3787011,
+      "class": "sky",
+      "attrs": [],
+      "bbox": [
+        5,
+        8,
+        794,
+        302
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3787011_mask.npy",
+      "mask_area": 226364
+    },
+    {
+      "id": 3787013,
+      "class": "mirror",
+      "attrs": [],
+      "bbox": [
+        460,
+        339,
+        478,
+        349
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3787013_mask.npy",
+      "mask_area": 140
+    },
+    {
+      "id": 3787012,
+      "class": "car",
+      "attrs": [],
+      "bbox": [
+        365,
+        313,
+        485,
+        414
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3787012_mask.npy",
+      "mask_area": 8295
+    },
+    {
+      "id": 3787014,
+      "class": "foam",
+      "attrs": [],
+      "bbox": [
+        132,
+        317,
+        241,
+        331
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3787014_mask.npy",
+      "mask_area": 839
+    },
+    {
+      "id": 3792868,
+      "class": "sand",
+      "attrs": [],
+      "bbox": [
+        1,
+        306,
+        795,
+        390
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3792868_mask.npy",
+      "mask_area": 20465
+    },
+    {
+      "id": 3792867,
+      "class": "beach chairs",
+      "attrs": [],
+      "bbox": [
+        473,
+        317,
+        694,
+        331
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3792867_mask.npy",
+      "mask_area": 2564
+    },
+    {
+      "id": 3792870,
+      "class": "beach chairs",
+      "attrs": [],
+      "bbox": [
+        263,
+        297,
+        702,
+        337
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3792870_mask.npy",
+      "mask_area": 11097
+    },
+    {
+      "id": 3792869,
+      "class": "sand",
+      "attrs": [],
+      "bbox": [
+        19,
+        314,
+        798,
+        380
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3792869_mask.npy",
+      "mask_area": 18237
+    },
+    {
+      "id": 3792872,
+      "class": "beach",
+      "attrs": [],
+      "bbox": [
+        1,
+        288,
+        798,
+        378
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3792872_mask.npy",
+      "mask_area": 30011
+    },
+    {
+      "id": 3792871,
+      "class": "car",
+      "attrs": [],
+      "bbox": [
+        359,
+        306,
+        484,
+        407
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3792871_mask.npy",
+      "mask_area": 8299
+    },
+    {
+      "id": 3792874,
+      "class": "car",
+      "attrs": [],
+      "bbox": [
+        365,
+        297,
+        487,
+        413
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3792874_mask.npy",
+      "mask_area": 8426
+    },
+    {
+      "id": 3792873,
+      "class": "tail light",
+      "attrs": [],
+      "bbox": [
+        449,
+        346,
+        481,
+        375
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3792873_mask.npy",
+      "mask_area": 570
+    },
+    {
+      "id": 3792875,
+      "class": "umbrella",
+      "attrs": [],
+      "bbox": [
+        240,
+        291,
+        283,
+        331
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3792875_mask.npy",
+      "mask_area": 1169
+    },
+    {
+      "id": 3792876,
+      "class": "umbrella",
+      "attrs": [],
+      "bbox": [
+        254,
+        297,
+        306,
+        340
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/132/132_obj3792876_mask.npy",
+      "mask_area": 1575
+    }
+  ],
+  "edges": [
+    {
+      "subject_id": 3786996,
+      "object_id": 3786997,
+      "predicate": "on a"
+    },
+    {
+      "subject_id": 3786999,
+      "object_id": 3787000,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 3787002,
+      "object_id": 3787003,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 3787004,
+      "object_id": 3787005,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 3787006,
+      "object_id": 3787007,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 3787009,
+      "object_id": 3787008,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 3787013,
+      "object_id": 3787012,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 3792867,
+      "object_id": 3792868,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 3792870,
+      "object_id": 3792869,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 3792871,
+      "object_id": 3792872,
+      "predicate": "parked at"
+    },
+    {
+      "subject_id": 3792873,
+      "object_id": 3792874,
+      "predicate": "of"
+    }
+  ],
+  "source": "vg"
+}

@@ -1,0 +1,302 @@
+{
+  "image_id": 555,
+  "image_path": "/root/SGGE_DM/data/visual_genome/VG_100K/VG_100K_2/555.jpg",
+  "image_size": [
+    800,
+    770
+  ],
+  "nodes": [
+    {
+      "id": 4297843,
+      "class": "leg",
+      "attrs": [],
+      "bbox": [
+        131,
+        564,
+        173,
+        657
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/555/555_obj4297843_mask.npy",
+      "mask_area": 1760
+    },
+    {
+      "id": 4297844,
+      "class": "chair",
+      "attrs": [],
+      "bbox": [
+        0,
+        305,
+        180,
+        671
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/555/555_obj4297844_mask.npy",
+      "mask_area": 20050
+    },
+    {
+      "id": 4297845,
+      "class": "apples",
+      "attrs": [],
+      "bbox": [
+        168,
+        424,
+        287,
+        498
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/555/555_obj4297845_mask.npy",
+      "mask_area": 4510
+    },
+    {
+      "id": 4297846,
+      "class": "table",
+      "attrs": [],
+      "bbox": [
+        10,
+        425,
+        446,
+        755
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/555/555_obj4297846_mask.npy",
+      "mask_area": 54544
+    },
+    {
+      "id": 4297847,
+      "class": "plant",
+      "attrs": [],
+      "bbox": [
+        671,
+        108,
+        785,
+        316
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/555/555_obj4297847_mask.npy",
+      "mask_area": 9847
+    },
+    {
+      "id": 4297848,
+      "class": "pot",
+      "attrs": [],
+      "bbox": [
+        758,
+        306,
+        798,
+        410
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/555/555_obj4297848_mask.npy",
+      "mask_area": 1521
+    },
+    {
+      "id": 4297849,
+      "class": "shelf",
+      "attrs": [],
+      "bbox": [
+        3,
+        5,
+        411,
+        253
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/555/555_obj4297849_mask.npy",
+      "mask_area": 71320
+    },
+    {
+      "id": 4297850,
+      "class": "items",
+      "attrs": [],
+      "bbox": [
+        9,
+        64,
+        362,
+        208
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/555/555_obj4297850_mask.npy",
+      "mask_area": 47315
+    },
+    {
+      "id": 4297851,
+      "class": "wall",
+      "attrs": [],
+      "bbox": [
+        10,
+        2,
+        744,
+        567
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/555/555_obj4297851_mask.npy",
+      "mask_area": 159709
+    },
+    {
+      "id": 4297852,
+      "class": "pot",
+      "attrs": [],
+      "bbox": [
+        74,
+        384,
+        183,
+        485
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/555/555_obj4297852_mask.npy",
+      "mask_area": 6574
+    },
+    {
+      "id": 4297854,
+      "class": "candles",
+      "attrs": [],
+      "bbox": [
+        723,
+        303,
+        760,
+        412
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/555/555_obj4297854_mask.npy",
+      "mask_area": 1671
+    },
+    {
+      "id": 4297855,
+      "class": "shelf",
+      "attrs": [],
+      "bbox": [
+        672,
+        357,
+        797,
+        450
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/555/555_obj4297855_mask.npy",
+      "mask_area": 4437
+    },
+    {
+      "id": 4297856,
+      "class": "corner",
+      "attrs": [],
+      "bbox": [
+        687,
+        61,
+        794,
+        570
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/555/555_obj4297856_mask.npy",
+      "mask_area": 14891
+    },
+    {
+      "id": 4297857,
+      "class": "corner",
+      "attrs": [],
+      "bbox": [
+        662,
+        11,
+        798,
+        608
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/555/555_obj4297857_mask.npy",
+      "mask_area": 33919
+    },
+    {
+      "id": 4297858,
+      "class": "bench",
+      "attrs": [],
+      "bbox": [
+        668,
+        463,
+        797,
+        620
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/555/555_obj4297858_mask.npy",
+      "mask_area": 10158
+    },
+    {
+      "id": 4297859,
+      "class": "room",
+      "attrs": [],
+      "bbox": [
+        7,
+        0,
+        791,
+        766
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/555/555_obj4297859_mask.npy",
+      "mask_area": 197060
+    },
+    {
+      "id": 4297860,
+      "class": "window",
+      "attrs": [],
+      "bbox": [
+        508,
+        98,
+        679,
+        351
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/555/555_obj4297860_mask.npy",
+      "mask_area": 44756
+    },
+    {
+      "id": 4297861,
+      "class": "frame",
+      "attrs": [],
+      "bbox": [
+        477,
+        56,
+        718,
+        396
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/555/555_obj4297861_mask.npy",
+      "mask_area": 62447
+    }
+  ],
+  "edges": [
+    {
+      "subject_id": 4297843,
+      "object_id": 4297844,
+      "predicate": "attached to"
+    },
+    {
+      "subject_id": 4297845,
+      "object_id": 4297846,
+      "predicate": "are on top of"
+    },
+    {
+      "subject_id": 4297847,
+      "object_id": 4297848,
+      "predicate": "growing out of"
+    },
+    {
+      "subject_id": 4297849,
+      "object_id": 4297850,
+      "predicate": "with"
+    },
+    {
+      "subject_id": 4297849,
+      "object_id": 4297851,
+      "predicate": "ON"
+    },
+    {
+      "subject_id": 4297852,
+      "object_id": 4297846,
+      "predicate": "ON"
+    },
+    {
+      "subject_id": 4297854,
+      "object_id": 4297855,
+      "predicate": "ON"
+    },
+    {
+      "subject_id": 4297855,
+      "object_id": 4297856,
+      "predicate": "IN"
+    },
+    {
+      "subject_id": 4297857,
+      "object_id": 4297859,
+      "predicate": "OF"
+    },
+    {
+      "subject_id": 4297858,
+      "object_id": 4297857,
+      "predicate": "IN"
+    },
+    {
+      "subject_id": 4297860,
+      "object_id": 4297861,
+      "predicate": "with"
+    }
+  ],
+  "source": "vg"
+}

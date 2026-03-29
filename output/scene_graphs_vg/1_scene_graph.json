@@ -1,0 +1,738 @@
+{
+  "image_id": 1,
+  "image_path": "/root/SGGE_DM/data/visual_genome/VG_100K/VG_100K_2/1.jpg",
+  "image_size": [
+    800,
+    600
+  ],
+  "nodes": [
+    {
+      "id": 1058498,
+      "class": "clock",
+      "attrs": [],
+      "bbox": [
+        421,
+        91,
+        500,
+        430
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058498_mask.npy",
+      "mask_area": 5898
+    },
+    {
+      "id": 5046,
+      "class": "street",
+      "attrs": [],
+      "bbox": [
+        77,
+        328,
+        791,
+        590
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj5046_mask.npy",
+      "mask_area": 100058
+    },
+    {
+      "id": 5045,
+      "class": "shade",
+      "attrs": [],
+      "bbox": [
+        119,
+        338,
+        393,
+        530
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj5045_mask.npy",
+      "mask_area": 24113
+    },
+    {
+      "id": 1058529,
+      "class": "man",
+      "attrs": [],
+      "bbox": [
+        238,
+        249,
+        298,
+        511
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058529_mask.npy",
+      "mask_area": 10457
+    },
+    {
+      "id": 5048,
+      "class": "sneakers",
+      "attrs": [],
+      "bbox": [
+        243,
+        489,
+        295,
+        515
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj5048_mask.npy",
+      "mask_area": 742
+    },
+    {
+      "id": 5050,
+      "class": "headlight",
+      "attrs": [],
+      "bbox": [
+        514,
+        366,
+        537,
+        381
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj5050_mask.npy",
+      "mask_area": 178
+    },
+    {
+      "id": 5049,
+      "class": "car",
+      "attrs": [],
+      "bbox": [
+        479,
+        315,
+        553,
+        413
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj5049_mask.npy",
+      "mask_area": 2469
+    },
+    {
+      "id": 5051,
+      "class": "bike",
+      "attrs": [],
+      "bbox": [
+        318,
+        319,
+        346,
+        353
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj5051_mask.npy",
+      "mask_area": 593
+    },
+    {
+      "id": 1058535,
+      "class": "bike",
+      "attrs": [],
+      "bbox": [
+        334,
+        319,
+        363,
+        354
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058535_mask.npy",
+      "mask_area": 566
+    },
+    {
+      "id": 1058507,
+      "class": "sign",
+      "attrs": [],
+      "bbox": [
+        118,
+        13,
+        206,
+        195
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058507_mask.npy",
+      "mask_area": 5668
+    },
+    {
+      "id": 1058508,
+      "class": "building",
+      "attrs": [],
+      "bbox": [
+        1,
+        2,
+        219,
+        538
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058508_mask.npy",
+      "mask_area": 96241
+    },
+    {
+      "id": 5055,
+      "class": "tree trunk",
+      "attrs": [],
+      "bbox": [
+        622,
+        234,
+        709,
+        561
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj5055_mask.npy",
+      "mask_area": 17014
+    },
+    {
+      "id": 1058534,
+      "class": "sidewalk",
+      "attrs": [],
+      "bbox": [
+        77,
+        331,
+        799,
+        597
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058534_mask.npy",
+      "mask_area": 100204
+    },
+    {
+      "id": 1058511,
+      "class": "shirt",
+      "attrs": [],
+      "bbox": [
+        241,
+        289,
+        300,
+        390
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058511_mask.npy",
+      "mask_area": 4613
+    },
+    {
+      "id": 1058539,
+      "class": "street",
+      "attrs": [],
+      "bbox": [
+        358,
+        283,
+        798,
+        516
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058539_mask.npy",
+      "mask_area": 21141
+    },
+    {
+      "id": 1058515,
+      "class": "car",
+      "attrs": [],
+      "bbox": [
+        708,
+        342,
+        799,
+        516
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058515_mask.npy",
+      "mask_area": 10620
+    },
+    {
+      "id": 5060,
+      "class": "back",
+      "attrs": [],
+      "bbox": [
+        721,
+        339,
+        788,
+        509
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj5060_mask.npy",
+      "mask_area": 10589
+    },
+    {
+      "id": 1058518,
+      "class": "glasses",
+      "attrs": [],
+      "bbox": [
+        271,
+        268,
+        291,
+        280
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058518_mask.npy",
+      "mask_area": 143
+    },
+    {
+      "id": 1058519,
+      "class": "parking meter",
+      "attrs": [],
+      "bbox": [
+        574,
+        327,
+        606,
+        470
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058519_mask.npy",
+      "mask_area": 1668
+    },
+    {
+      "id": 1058525,
+      "class": "shoes",
+      "attrs": [],
+      "bbox": [
+        391,
+        481,
+        437,
+        515
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058525_mask.npy",
+      "mask_area": 764
+    },
+    {
+      "id": 1058532,
+      "class": "man",
+      "attrs": [],
+      "bbox": [
+        372,
+        264,
+        447,
+        515
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058532_mask.npy",
+      "mask_area": 10944
+    },
+    {
+      "id": 1058528,
+      "class": "pants",
+      "attrs": [],
+      "bbox": [
+        245,
+        384,
+        283,
+        502
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058528_mask.npy",
+      "mask_area": 3844
+    },
+    {
+      "id": 1058530,
+      "class": "jacket",
+      "attrs": [],
+      "bbox": [
+        356,
+        296,
+        445,
+        393
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058530_mask.npy",
+      "mask_area": 5268
+    },
+    {
+      "id": 1058531,
+      "class": "pants",
+      "attrs": [],
+      "bbox": [
+        382,
+        369,
+        436,
+        497
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058531_mask.npy",
+      "mask_area": 3497
+    },
+    {
+      "id": 1058536,
+      "class": "work truck",
+      "attrs": [],
+      "bbox": [
+        521,
+        271,
+        786,
+        456
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058536_mask.npy",
+      "mask_area": 19634
+    },
+    {
+      "id": 3798575,
+      "class": "sidewalk",
+      "attrs": [],
+      "bbox": [
+        343,
+        318,
+        393,
+        507
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj3798575_mask.npy",
+      "mask_area": 1125
+    },
+    {
+      "id": 1058541,
+      "class": "chin",
+      "attrs": [],
+      "bbox": [
+        399,
+        288,
+        410,
+        297
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058541_mask.npy",
+      "mask_area": 65
+    },
+    {
+      "id": 1058540,
+      "class": "guy",
+      "attrs": [],
+      "bbox": [
+        369,
+        264,
+        451,
+        514
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058540_mask.npy",
+      "mask_area": 10957
+    },
+    {
+      "id": 1058542,
+      "class": "van",
+      "attrs": [],
+      "bbox": [
+        529,
+        298,
+        762,
+        432
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058542_mask.npy",
+      "mask_area": 12742
+    },
+    {
+      "id": 1058543,
+      "class": "wall",
+      "attrs": [],
+      "bbox": [
+        0,
+        1,
+        134,
+        534
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058543_mask.npy",
+      "mask_area": 64934
+    },
+    {
+      "id": 1058545,
+      "class": "tree",
+      "attrs": [],
+      "bbox": [
+        249,
+        0,
+        425,
+        360
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058545_mask.npy",
+      "mask_area": 29933
+    },
+    {
+      "id": 1058544,
+      "class": "bikes",
+      "attrs": [],
+      "bbox": [
+        321,
+        319,
+        361,
+        354
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058544_mask.npy",
+      "mask_area": 967
+    },
+    {
+      "id": 1058546,
+      "class": "arm",
+      "attrs": [],
+      "bbox": [
+        368,
+        283,
+        400,
+        326
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058546_mask.npy",
+      "mask_area": 596
+    },
+    {
+      "id": 1058547,
+      "class": "shirt",
+      "attrs": [],
+      "bbox": [
+        384,
+        306,
+        421,
+        372
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058547_mask.npy",
+      "mask_area": 1409
+    },
+    {
+      "id": 3798576,
+      "class": "man",
+      "attrs": [],
+      "bbox": [
+        362,
+        264,
+        459,
+        512
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj3798576_mask.npy",
+      "mask_area": 10990
+    },
+    {
+      "id": 3798577,
+      "class": "man",
+      "attrs": [],
+      "bbox": [
+        230,
+        251,
+        302,
+        515
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj3798577_mask.npy",
+      "mask_area": 10471
+    },
+    {
+      "id": 3798578,
+      "class": "road",
+      "attrs": [],
+      "bbox": [
+        435,
+        295,
+        775,
+        513
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj3798578_mask.npy",
+      "mask_area": 18413
+    },
+    {
+      "id": 1058548,
+      "class": "lamp post",
+      "attrs": [],
+      "bbox": [
+        537,
+        63,
+        578,
+        493
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058548_mask.npy",
+      "mask_area": 7641
+    },
+    {
+      "id": 1058549,
+      "class": "trees",
+      "attrs": [],
+      "bbox": [
+        190,
+        0,
+        796,
+        557
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj1058549_mask.npy",
+      "mask_area": 69230
+    },
+    {
+      "id": 3798579,
+      "class": "windows",
+      "attrs": [],
+      "bbox": [
+        602,
+        4,
+        775,
+        152
+      ],
+      "mask_path": "/root/SGGE_DM/output/masks_vg/1/1_obj3798579_mask.npy",
+      "mask_area": 11499
+    }
+  ],
+  "edges": [
+    {
+      "subject_id": 5045,
+      "object_id": 5046,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 1058529,
+      "object_id": 5048,
+      "predicate": "wears"
+    },
+    {
+      "subject_id": 5049,
+      "object_id": 5050,
+      "predicate": "has"
+    },
+    {
+      "subject_id": 1058507,
+      "object_id": 1058508,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 5055,
+      "object_id": 1058534,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 1058529,
+      "object_id": 1058511,
+      "predicate": "has"
+    },
+    {
+      "subject_id": 1058534,
+      "object_id": 1058539,
+      "predicate": "next to"
+    },
+    {
+      "subject_id": 1058515,
+      "object_id": 5060,
+      "predicate": "has"
+    },
+    {
+      "subject_id": 1058529,
+      "object_id": 1058518,
+      "predicate": "has"
+    },
+    {
+      "subject_id": 1058519,
+      "object_id": 1058534,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 1058529,
+      "object_id": 5048,
+      "predicate": "wears"
+    },
+    {
+      "subject_id": 1058532,
+      "object_id": 1058525,
+      "predicate": "has"
+    },
+    {
+      "subject_id": 1058529,
+      "object_id": 1058511,
+      "predicate": "has"
+    },
+    {
+      "subject_id": 1058529,
+      "object_id": 1058528,
+      "predicate": "wears"
+    },
+    {
+      "subject_id": 1058532,
+      "object_id": 1058530,
+      "predicate": "has"
+    },
+    {
+      "subject_id": 1058532,
+      "object_id": 1058531,
+      "predicate": "has"
+    },
+    {
+      "subject_id": 5051,
+      "object_id": 1058534,
+      "predicate": "parked on"
+    },
+    {
+      "subject_id": 1058535,
+      "object_id": 1058534,
+      "predicate": "parked on"
+    },
+    {
+      "subject_id": 1058536,
+      "object_id": 1058539,
+      "predicate": "parked on"
+    },
+    {
+      "subject_id": 1058515,
+      "object_id": 1058539,
+      "predicate": "parked on"
+    },
+    {
+      "subject_id": 1058535,
+      "object_id": 3798575,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 1058519,
+      "object_id": 1058532,
+      "predicate": "behind"
+    },
+    {
+      "subject_id": 1058540,
+      "object_id": 1058541,
+      "predicate": "holding"
+    },
+    {
+      "subject_id": 1058529,
+      "object_id": 1058511,
+      "predicate": "wearing"
+    },
+    {
+      "subject_id": 1058532,
+      "object_id": 1058541,
+      "predicate": "holding"
+    },
+    {
+      "subject_id": 1058544,
+      "object_id": 1058545,
+      "predicate": "near"
+    },
+    {
+      "subject_id": 1058532,
+      "object_id": 1058525,
+      "predicate": "wearing"
+    },
+    {
+      "subject_id": 1058544,
+      "object_id": 1058545,
+      "predicate": "near"
+    },
+    {
+      "subject_id": 1058511,
+      "object_id": 1058529,
+      "predicate": "on"
+    },
+    {
+      "subject_id": 3798576,
+      "object_id": 1058541,
+      "predicate": "holding"
+    },
+    {
+      "subject_id": 3798577,
+      "object_id": 1058518,
+      "predicate": "wearing"
+    },
+    {
+      "subject_id": 1058548,
+      "object_id": 3798578,
+      "predicate": "along"
+    },
+    {
+      "subject_id": 1058529,
+      "object_id": 1058511,
+      "predicate": "in"
+    },
+    {
+      "subject_id": 1058529,
+      "object_id": 1058528,
+      "predicate": "wearing"
+    },
+    {
+      "subject_id": 1058519,
+      "object_id": 1058539,
+      "predicate": "on top of"
+    },
+    {
+      "subject_id": 1058545,
+      "object_id": 1058539,
+      "predicate": "next to"
+    },
+    {
+      "subject_id": 1058529,
+      "object_id": 1058518,
+      "predicate": "wearing"
+    },
+    {
+      "subject_id": 1058544,
+      "object_id": 1058529,
+      "predicate": "behind"
+    },
+    {
+      "subject_id": 1058549,
+      "object_id": 1058534,
+      "predicate": "by"
+    },
+    {
+      "subject_id": 1058532,
+      "object_id": 1058530,
+      "predicate": "wearing"
+    },
+    {
+      "subject_id": 1058508,
+      "object_id": 3798579,
+      "predicate": "with"
+    }
+  ],
+  "source": "vg"
+}
