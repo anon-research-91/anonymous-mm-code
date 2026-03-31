@@ -17,7 +17,7 @@ Instead of directly applying global text-conditioned editing, the method first *
 ## Teaser
 
 <p align="center">
-  <img src="fig/teaser.png" width="92%">
+  <img src="fig/teaser.pdf" width="92%">
 </p>
 
 Our method is designed for **target-specific instruction-driven image editing** with improved locality, structural consistency, and target grounding stability.
@@ -38,7 +38,7 @@ Our method is designed for **target-specific instruction-driven image editing** 
 ## Framework Overview
 
 <p align="center">
-  <img src="fig/framework_overview.png" width="96%">
+  <img src="fig/framework_overview.pdf" width="96%">
 </p>
 
 The method consists of three stages:
@@ -79,7 +79,7 @@ This design improves controllability in complex multi-object scenes.
 ## Controlled Study Setting
 
 <p align="center">
-  <img src="fig/data_overview.png" width="92%">
+  <img src="fig/data_overview.pdf" width="92%">
 </p>
 
 This repository corresponds to the **controlled-study setting** used in the paper.
