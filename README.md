@@ -17,7 +17,7 @@ Instead of directly applying global text-conditioned editing, the method first *
 ## Teaser
 
 <p align="center">
-  <img src="assets/teaser.png" width="92%">
+  <img src="fig/teaser.png" width="92%">
 </p>
 
 Our method is designed for **target-specific instruction-driven image editing** with improved locality, structural consistency, and target grounding stability.
@@ -38,7 +38,7 @@ Our method is designed for **target-specific instruction-driven image editing** 
 ## Framework Overview
 
 <p align="center">
-  <img src="assets/framework_overview.png" width="96%">
+  <img src="fig/framework_overview.png" width="96%">
 </p>
 
 The method consists of three stages:
@@ -79,7 +79,7 @@ This design improves controllability in complex multi-object scenes.
 ## Controlled Study Setting
 
 <p align="center">
-  <img src="assets/data_overview.png" width="92%">
+  <img src="fig/data_overview.png" width="92%">
 </p>
 
 This repository corresponds to the **controlled-study setting** used in the paper.
@@ -158,39 +158,6 @@ See `scripts/graph_delta/pipeline_replace.py`.
 
 ---
 
-## Repository Structure
-
-```
-SGGE_DM/
-├── diffusion/
-│   ├── blended_diffusion.py
-│   ├── diffedit.py
-│   ├── graph_guided_attention.py
-│   └── instruct_pix2pix_editor.py
-├── graph/
-│   ├── graph_delta.py
-│   ├── graph_tokens.py
-│   ├── mask_utils.py
-│   └── semantics.py
-├── scripts/graph_delta/
-│   ├── cli.py
-│   ├── parse_intent.py
-│   ├── pipeline_add.py
-│   ├── pipeline_attribute.py
-│   ├── pipeline_relation.py
-│   ├── pipeline_remove.py
-│   ├── pipeline_replace.py
-│   └── ...
-├── output/
-│   ├── no_edit/
-│   ├── scene_graphs_vg/
-│   ├── masks_vg/
-│   └── graph_delta_instruct_edits/
-└── requirements.txt
-```
-
----
-
 ## Setup
 
 ### Requirements
@@ -204,35 +171,6 @@ SGGE_DM/
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-## Data Layout
-
-This repository assumes that **images**, **scene graphs**, and **instance masks** are already available locally.
-
-Example layout:
-
-```
-output/
-  no_edit/
-    63.jpg
-  scene_graphs_vg/
-    63_scene_graph.json
-  masks_vg/
-    63/
-      63_obj1533910_mask.npy
-```
-
-Required inputs:
-
-```
-output/no_edit/{image_id}.jpg
-output/scene_graphs_vg/{image_id}_scene_graph.json
-output/masks_vg/{image_id}/{image_id}_obj{obj_id}_mask.npy
-```
-
-If you use a different directory layout, pass the corresponding paths through the CLI arguments.
 
 ---
 
@@ -306,46 +244,6 @@ python -m scripts.graph_delta.cli \
 
 ---
 
-## Qualitative Comparisons
-
-<p align="center">
-  <img src="assets/qualitative_comparison.png" width="96%">
-</p>
-
-Our method shows stronger target grounding stability and better preservation of non-target scene structure in complex multi-object editing scenarios.
-
----
-
-## Ablation Study
-
-<p align="center">
-  <img src="assets/ablation.png" width="96%">
-</p>
-
-The ablation results highlight the importance of:
-
-- explicit region restriction  
-- structure-aware grounding  
-- type-adaptive execution  
-
-Removing any of these components degrades edit locality, target binding, or instruction faithfulness.
-
----
-
-## Scope and Limitations
-
-This repository corresponds to the **controlled-study setting** in the paper.
-
-- It assumes **oracle scene graphs** and **instance masks**
-- It does **not** include a full object detector, segmenter, or relation predictor
-- Structural grounding quality depends on the provided scene graph and mask files
-- Some operations use simplified rule-based instruction parsing
-- `replace` is currently implemented as **remove + add**, not as a single native edit primitive
-
-The purpose of this repository is to isolate and evaluate the contribution of **explicit structural grounding** in instruction-driven image editing.
-
----
-
 ## TODO
 
 - [ ] Release cleaned inference scripts  
@@ -366,9 +264,3 @@ The purpose of this repository is to isolate and evaluate the contribution of **
   year={2026}
 }
 ```
-
----
-
-## Acknowledgement
-
-This project builds on open-source diffusion-based editing tools and public vision-language resources.
